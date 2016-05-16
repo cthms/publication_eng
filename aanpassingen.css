@@ -8,8 +8,14 @@ body,
 }
 
 #menu-24 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
-								font-size: 15px;
+								font-size: 15.5px;
 								color:black;
+}
+
+#menu-35 .mbr-navbar__items a {
+  font-family: 'verdana', sans-serif;
+								font-size: 15.5px;
+								color:black
 }
 
 #menu-72 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
@@ -21,7 +27,6 @@ body,
 								font-size: 15px;
 								color:white;				
 }
-
 
 
 .mbr-buttons {margin-left: -50px;
@@ -40,6 +45,12 @@ body,
 				text-align:left;
 				margin-left: 180px;
 				
+}
+
+#slider2-38 P {font-family: 'courier', sans-serif;
+				font-size: 18px;  
+				margin-left:60px;
+
 }
 
 #slider2-39 P {font-family: 'courier', sans-serif;
@@ -93,6 +104,12 @@ body,
 				
 	}
 	
+#slider2-33 P {
+  font-family: 'courier', sans-serif;
+  				font-size: 18px;
+				margin-left:60px;
+}	
+	
 #slider-39 P {font-family: 'courier', sans-serif;
 				font-size: 18px;
 				margin-left:180px;
@@ -114,7 +131,7 @@ body,
 }
 	
 .carousel-control {
-	color: #1F1F1F;	
+	color: #3E3E3E;	
 }
 	
 .mbr-footer {font-family: 'verdana', sans-serif;
