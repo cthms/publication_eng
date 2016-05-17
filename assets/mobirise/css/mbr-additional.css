@@ -165,29 +165,6 @@
 
 
 
-#menu-35 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-35.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#menu-35 .mbr-navbar__items a {
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
-}
-#slider2-39 P {
-  text-align: left;
-  font-family: 'Lora', serif;
-  color: #000000;
-}
-#slider2-38 P {
-  text-align: left;
-  font-family: 'Lora', serif;
-  color: #000000;
-}
-
-
-
 #menu-40 .mbr-brand__name {
   font-size: 16px;
 }
@@ -213,4 +190,27 @@
 #content5-43 .mbr-article P {
   color: #000000;
   font-family: 'Lora', serif;
+}
+
+
+
+#menu-40 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-40.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-40 .mbr-navbar__items a {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+#slider2-36 P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #000000;
+}
+#slider2-35 P {
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #000000;
 }

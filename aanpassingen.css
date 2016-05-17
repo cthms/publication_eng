@@ -8,7 +8,7 @@ body,
 }
 
 #menu-24 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
-								font-size: 15px;
+								font-size: 15.8px;
 								color:black;
 }
 
@@ -16,6 +16,11 @@ body,
   font-family: 'verdana', sans-serif;
 								font-size: 15.5px;
 								color:black
+}
+
+#menu-40 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
+								font-size: 15px;
+								color:black;
 }
 
 #menu-72 .mbr-navbar__items a {font-family: 'verdana', sans-serif;
@@ -115,6 +120,17 @@ body,
   				font-size: 18px;
 				margin-left:60px;
 }	
+
+#slider2-35 P {font-family: 'courier', sans-serif;
+  				font-size: 18px;
+				margin-left:60px;
+}
+
+#slider2-36 P {
+  font-family: 'courier', sans-serif;
+  				font-size: 18px;
+				margin-left:60px;
+}
 	
 #slider-39 P {font-family: 'courier', sans-serif;
 				font-size: 18px;
@@ -130,6 +146,16 @@ body,
 #content5-41 .mbr-header .mbr-header__text {
   font-family: 'courier', serif;
   font-size:30px;
+}
+
+#content5-43 .mbr-header .mbr-header__text {
+   font-family: 'courier', serif;
+  font-size:30px;
+}
+
+#content5-43 .mbr-article {
+font-family: 'courier', serif;
+  font-size: 20px;
 }
 
 .mbr-slider .carousel-control {
